@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "links": {
+    "register": {
+      "uri": "/api/client/register"
+    },
+    "metrics": {
+      "uri": "/api/client/metrics"
+    },
+    "feature-toggles": {
+      "uri": "/api/client/features"
+    }
+  }
+}
